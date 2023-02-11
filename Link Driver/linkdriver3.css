@@ -1,0 +1,16 @@
+article{
+    background-color: rgb(63, 122, 79);
+    width: 700px;
+    height: 700px;
+    margin-left: 300px;
+    justify-content: center;
+   
+  
+
+}
+.h4
+
+{
+    display: flex;
+    justify-content: center;
+}

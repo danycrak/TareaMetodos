@@ -1,0 +1,113 @@
+
+datos
+
+TIPOS PRIMITIVOS
+
+let = palabra reservada
+= asigna de un lado al otro
+let permite modificar el valor/
+
+let number = 5;
+let word = `sudamericano`;
+let status = true;
+string  es igual entre comillas solo "palabras"
+
+null no exite espacio ni nada
+undefined existe el espacio pero no hay dato
+
+*************************************************************
+
+TIPO OBJETO
+
+let array  = [2,3,4,5];
+let nomrs  = ["Juan", "Pedro", "Paola"]
+
+let nums = [2,3,4,5];
+console.log(nums[2]);
+
+
+ respuesta 4
+
+DEBER
+
+camel case
+Convencion 
+
+Datos Personales
+nombres	s
+apellidos	s
+nui	s
+telefono	s
+fecha de nac	s
+Direccion	s
+correo	s
+estado civil	bollou
+edad
+favoritos hobby array
+hijos array
+tiene Covid 	true
+
+Pregunta de examen
+
+let $ucre;
+let _userl
+let luser;
+javascript Info
+
+if condicion SI
+else condicion NO
+
+-
+
+let 
+if
+const
+white
+for
+console
+else 
+function
+Number
+Prompt
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+funciones
+
+function nombre ( array)
+
+retun true/false
+
+prompt() es un método del objeto Window de JavaScript que se usa para mostrar un cuadro de diálogo con un mensaje que solicita al usuario que ingrese algún texto o información
+
+sum método, que puede calcular la suma de los valores en una array. Se trata de encontrar la suma de todos los valores de una array en JavaScript.
+
+Funsion  entrada - salida
+
+substring
+aaaa    resultado aa
+
+buscando elelento en elelnto en un array 
+
+a.substring(i i+1)
+
+palabra entre indices toma el nombre de vector
+
+numero de factura
+
+https://drive.google.com/file/d/1QnBmiuXi_k6bjpY6ijDL85iFrwxTytTF/view?usp=share_link
+
+
+let doc = document.getElementById("img01")
+
+<img src="https://drive.google.com/uc?export=view&id=[img01_id]" alt="foto">
+
+Gal Gadot, una ‘superwoman’ dispuesta a cambiar el mundo con su ejemplo
+La actriz que da vida a Wonder Woman tiene dos niñas y está casada con un empresario inmobiliario que admira su independencia y practica la igualdad y el respeto en su relación.
+Gal Gadot attends the Vanity Fair Oscar party in Beverly Hills during the 92nd Academy Awards, in Los Angeles, California, U.S., February 9, 2020.     REUTERS/Danny Moloshok
+Gal Gadot attends the Vanity Fair Oscar party in Beverly Hills during the 92nd Academy Awards, in Los Angeles, California, U.S., February 9, 2020. REUTERS/Danny Moloshok
+DANNY MOLOSHOK (REUTERS)
+Maite Nieto
+MAITE NIETO
+Madrid - 22 dic 2020 - 18:30Actualizado:23 DIC 2020 - 03:37 ECT
+Cuando Gal Gadot protagonizó en 2017 la primera entrega de Wonder Woman, la heroína que se propone detener la Primera Guerra Mundial, detrás de la película había más que un estreno a la espera de llenar la bolsa con una buena recaudación. Sobre el filme y su protagonista se posaron las atentas miradas de un Hollywood necesitado de claves para encontrar un nuevo camino en un tiempo en el que resultaba cada vez más clamoroso e inaceptable la desigualdad de salarios y el trato de la industria para con hombres y mujeres.
+
+
